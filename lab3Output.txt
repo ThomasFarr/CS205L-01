@@ -1,0 +1,28 @@
+Sorted Golfers:
+Competitor [name=Jack, score=80]
+Competitor [name=Tiger, score=80]
+Competitor [name=John, score=81]
+Competitor [name=Justin, score=81]
+Competitor [name=Brodie, score=92]
+Competitor [name=Jim, score=93]
+Competitor [name=Henrik, score=99]
+Competitor [name=Pete, score=109]
+Competitor [name=Sam, score=110]
+Competitor [name=Joe, score=112]
+
+Leader of Golfers:
+Competitor [name=Jack, score=80]
+
+Leader of Bowlers:
+Competitor [name=Earl, score=292]
+
+The iterator values are:
+Competitor [name=Jim, score=292]
+Competitor [name=Mark, score=291]
+Competitor [name=Pete, score=280]
+Competitor [name=Joe, score=282]
+Competitor [name=Norm, score=279]
+Competitor [name=Tony, score=265]
+Competitor [name=Bill, score=277]
+Competitor [name=Walter, score=270]
+Competitor [name=Will, score=265]
